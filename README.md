@@ -18,7 +18,7 @@ Functions for working with altcoin addresses, forked from [ryanralph](https://gi
 
 ### Address types
 
-* ColossusXT/COLX  (bitcoin)
+* ColossusXT/COLX  (ColossusXT)
 
 ### Example
 
